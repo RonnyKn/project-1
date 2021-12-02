@@ -7,4 +7,3 @@ This is only a sample and you will need to adjust it depending on how fast or sl
 •	First half of fourth month - Learn a CSS preprocessor. This will help you write maintainable CSS at a faster pace. I suggest learning either Sass or Less. Try re-writing some of your code using this.
 •	Second half of fourth month - Learn about HTML templates. A good option is Handlebars.js, but you can do your own research.
 •	Last two months - You can either learn about a JavaScript framework or begin working on your portfolio. A portfolio is almost a requirement for most web developer jobs. Create a couple sites that interest you can keep building it up as you create more sites.
-LEYEH LEYEH
